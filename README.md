@@ -43,8 +43,8 @@ Navegue até o diretório que contém o Dockerfile no terminal e seus arquivos d
 $ docker build -t nome_da_sua_imagem .
 Uma vez criada a imagem, para executar o container basta executar, como administrador, seguinte o comando:
 
-$ docker run -d -p 8080:80 nome_da_sua_imagem
-Uma vez executando, para acessar o front-end, basta abrir o http://localhost:8080/#/ no navegador.
+$ docker run -p 5000:5000 nome_da_sua_imagem
+Uma vez executando, para acessar o front-end, basta abrir o http://localhost:5000/#/ no navegador.
 
 ### Versão
 
