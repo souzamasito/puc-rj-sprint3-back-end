@@ -1,4 +1,4 @@
-# Sorce 2 Sea
+# Source 2 Sea
 
 Este é o MVP (Minimum Viable Product) de um projeto desenvolvido para a sprint 3 do curso de Full Stack da PUC/RJ. Tem como objetivo o cadatramento de informaçoes sobre poluição nas praias do Brasil. 
 
